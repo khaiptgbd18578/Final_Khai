@@ -65,7 +65,7 @@ const OrderScreen = () => {
                   <strong>Deliver to</strong>
                 </h5>
                 <p>
-                  Address: Arusha Tz, Ngaramtoni Crater, P.O BOX 1234 Arusha Tz
+                  Address: thanh khe, da nang, viet nam
                 </p>
                 <div className="bg-danger p-1 col-12">
                   <p className="text-white text-center text-sm-start">
